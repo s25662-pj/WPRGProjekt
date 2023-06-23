@@ -1,0 +1,31 @@
+body{
+    background-color: #d5b9b2;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.product{
+    background-color: #ffffff;
+    border-radius:10px;
+    padding: 20px;
+    border: solid #000;
+}
+
+.cart-button {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+li{
+    background-color: #ffffff;
+    border-radius:10px;
+    padding: 20px;
+    border: solid #000;
+    margin-bottom: 10px;
+}
